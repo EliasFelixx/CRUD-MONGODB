@@ -1,3 +1,10 @@
+GRUPO:
+Bruno Veronesi
+Elias Henrique Felix Gomes
+Henrique Mangueira
+
+
+
 README - Plataforma de Aluguel de Ferramentas
 
 Descrição 
