@@ -1,7 +1,7 @@
 GRUPO:
-Bruno Veronesi,
+Bruno Veronesi Silvestre,
 Elias Henrique Felix Gomes,
-Henrique Mangueira
+Henrique Carlos Castilho Mangueira
 
 
 
