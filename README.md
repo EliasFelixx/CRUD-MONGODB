@@ -1,6 +1,6 @@
 GRUPO:
-Bruno Veronesi
-Elias Henrique Felix Gomes
+Bruno Veronesi,
+Elias Henrique Felix Gomes,
 Henrique Mangueira
 
 
